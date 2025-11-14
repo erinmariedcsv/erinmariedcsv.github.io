@@ -1,1 +1,13 @@
 /* css styles */
+.about-entity .about-image {
+  width: 300px !important;
+  height: 300px !important;
+}
+
+.about-entity .about-image img {
+  border-radius: 50% !important;
+  width: 300px !important;
+  height: 300px !important;
+  object-fit: cover !important;
+  object-position: center !important;
+}

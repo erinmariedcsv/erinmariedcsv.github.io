@@ -1,34 +1,64 @@
 ---
 title: "Publications"
-description-meta: "Information, pdfs, and social metrics of papers"
-#page-layout: full
-#back-to-top-navigation: true
+description: "Full list of peer-reviewed publications and preprints"
 title-block-banner: false
-css: custom.css
 ---
 
+## 2025
 
-<!--Include academic icons or buttons-->
-{{< include /files/includes/_academic.qmd >}}
+**Samiksha, F.**, **San Valentin, E.M.D.**, Li, G., Blazer, M., McCormick, T.S., Ghannoum, M. A Narrative Review on the Functional Applications, Safety, and Probiotic Characteristics of Pichia. Nutrients. 2025. (in press)
 
-Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%) 
+**Saghir J**, Herrada J, Long L, **San Valentin E**, McCormick TS, Ghannoum M. Efficacy of Rezafungin on Candida albicans Endophthalmitis in a Rabbit Model. Pathog Immun. 2025 Oct 21;10(2):230-242. [doi: 10.20411/pai.v10i2.873](https://doi: 10.20411/pai.v10i2.873) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/41143137/)
 
-Total citations as of January 2025:
+**San Valentin EM**, Damasco J, Bernardino M, Mishra A, Barcena AJR, Bolinas DK, Canlas GM, Jacobsen M, Layman R, Chintalapani G, Norton W, Fowlkes N, Chen S, Huang SY, Melancon MP. Gadolinium nanoparticle-enhanced, radiopaque, and resorbable inferior vena cava filters for improved in vivo applications. Acta Biomater. 2025 Oct 20:S1742-7061(25)00780-9. [doi: 10.1016/j.actbio.2025.10.034](https://10.1016/j.actbio.2025.10.034). | [PubMed](https://pubmed.ncbi.nlm.nih.gov/41115622/)
 
-- [Web of Science](https://www.webofscience.com): 100,000 (h-index = 100)   
-- [Google Scholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ&hl=en): 179,000 (h-index = 127, i10-index = 377) 
+**Kodikara S**, Mao J, **San Valentin EMD**, Do KA, Reyes-Gibby CC, Lê Cao KA. Oral microbial signatures of head and neck cancer patients with diverse longitudinal oral mucositis severity patterns. *bioRxiv* [Preprint]. 2025 Jul 18:2025.07.15.665024. [doi: 10.1101/2025.07.15.665024](https://doi.org/10.1101/2025.07.15.665024)
 
-## Selected Work
+**Fernandez Ferrer M**, Retuerto M, Thavamani A, **San Valentin EM**, Sferra TJ, Ghannoum M, Sankararaman S. Clinical and gut microbiome characteristics of medically complex patients receiving blenderized tube feeds vs non-blenderized tube feeds. *Nutrients*. 2025 Jun 17;17(12):2018. [doi: 10.3390/nu17122018](https://10.3390/nu17122018). | [PubMed](https://pubmed.ncbi.nlm.nih.gov/40573129/)
 
-Einstein, A., Podolsky, B., & Rosen, N. (1935). [Can quantum-mechanical description of physical reality be considered complete?](posts/paper-title/index.qmd). *Physical review*, 47(10), 777. \[[pdf](https://scholar.google.com/)\] \[[code and data](https://doi.org)\] ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true" class="altmetric-embed"></div>     
+**Soliman N**, Kruithoff C, **San Valentin EM**, Gamal A, McCormick TS, Ghannoum M. Small Intestinal Bacterial and Fungal Overgrowth: Health Implications and Management Perspectives. *Nutrients*. 2025 Apr 17;17(8):1365. [doi: 10.3390/nu17081365](https://doi.org/10.3390/nu17081365) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/40284229/)
+
+**Mishra A**, **San Valentin EMD**, Barcena AJR, Bolinas DKM, Bernardino MR, Canlas G, Ricks KA, Damasco JA, Melancon MP. Antibody-Targeted Bismuth Gadolinium Nanoconjugate for Image-Guided Radiotherapy of Hepatocellular Carcinoma. *ACS Appl Mater Interfaces*. 2025 Mar 12;17(10):15097-15108. [doi: 10.1021/acsami.4c21949](https://doi.org/10.1021/acsami.4c21949) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/40026156/)
+
+**Melancon ST**, **San Valentin EM**, Bolinas DKM, Bernardino MR, Mishra A, Canlas G, Chintalapani G, Jacobsen MC, Barcena AJR, Huang SY. Fabrication of Radiopaque, Drug-Loaded Resorbable Polymer for Medical Device Development. *Polymers (Basel)*. 2025 Mar 7;17(6):716. [doi: 10.3390/polym17060716](https://doi.org/10.3390/polym17060716) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/40292576/)
+
+---
+
+## 2024
+
+**Melancon AD**, Jacobsen M, Damasco J, Perez J, Bernardino M, **San Valentin ES**, Court KA, Godin B, Layman R, Melancon MP. Correction for partial volume averaging in the quantification of radiopaque nanomaterial-embedded resorbable polymers. *Biomed Phys Eng Express*. 2024 Aug 12;10(5). [doi: 10.1088/2057-1976/ad6a66](https://doi.org/10.1088/2057-1976/ad6a66) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/39094587/)
+
+**Barcena AJR**, Perez JVD, Bernardino MR, Damasco JA, **San Valentin EMD**, Klusman C, Martin B, Canlas GM, Heralde FM 3rd, Fowlkes N, Bouchard RR, Cheng J, Huang SY, Melancon MP. Bismuth-infused perivascular wrap facilitates delivery of mesenchymal stem cells and attenuation of neointimal hyperplasia in rat arteriovenous fistulas. *Biomater Adv*. 2025 Jan;166:214052. [doi: 10.1016/j.bioadv.2024.214052](https://doi.org/10.1016/j.bioadv.2024.214052) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/39341164/)
+
+**Barcena AJR**, Perez JVD, Bernardino MR, **San Valentin EMD**, Damasco JA, Klusman C, Martin B, Court KA, Godin B, Canlas G, Fowlkes N, Bouchard RR, Cheng J, Huang SY, Melancon MP. Controlled Delivery of Rosuvastatin or Rapamycin through Electrospun Bismuth Nanoparticle-Infused Perivascular Wraps Promotes Arteriovenous Fistula Maturation. *ACS Appl Mater Interfaces*. 2024 Jul 3;16(26):33159-33168. [doi: 10.1021/acsami.4c06042](https://doi.org/10.1021/acsami.4c06042) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/38912610/)
+
+**San Valentin EM**, Damasco JA, Bernardino M, Court KA, Godin B, Canlas GM, Melancon A, Chintalapani G, Jacobsen MC, Norton W, Layman RR, Fowlkes N, Chen SR, Huang SY, Melancon MP. Image-Guided Deployment and Monitoring of a Novel Tungsten Nanoparticle-Infused Radiopaque Absorbable Inferior Vena Cava Filter in a Swine Model. *J Vasc Interv Radiol*. 2024 Jan;35(1):113-121.e3. [doi: 10.1016/j.jvir.2023.09.003](https://doi.org/10.1016/j.jvir.2023.09.003) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37696432/)
+
+**Zhang L**, **San Valentin EMD**, John TM, Jenq RR, Do KA, Hanna EY, Peterson CB, Reyes-Gibby CC. Influence of oral microbiome on longitudinal patterns of oral mucositis severity in patients with squamous cell carcinoma of the head and neck. *Cancer*. 2024 Jan 1;130(1):150-161. [doi: 10.1002/cncr.35001](https://doi.org/10.1002/cncr.35001) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37688396/)
+
+---
+
+## 2023
+
+**San Valentin EMD**\*, Do KA, Yeung SJ, Reyes-Gibby CC. Attempts to Understand Oral Mucositis in Head and Neck Cancer Patients through Omics Studies: A Narrative Review. *Int J Mol Sci*. 2023 Nov 30;24(23):16995. [doi: 10.3390/ijms242316995](https://doi.org/10.3390/ijms242316995) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/38069314/) | [Full Text (Open Access)](https://www.mdpi.com/1422-0067/24/23/16995)
+
+**Barcena AJR**, Perez JVD, Bernardino MR, Damasco JA, Cortes A, Del Mundo HC, **San Valentin EMD**, Klusman C, Canlas GM, Heralde FM 3rd, Avritscher R, Fowlkes N, Bouchard RR, Cheng J, Huang SY, Melancon MP. Bioresorbable Mesenchymal Stem Cell-Loaded Electrospun Polymeric Scaffold Inhibits Neointimal Hyperplasia Following Arteriovenous Fistula Formation in a Rat Model of Chronic Kidney Disease. *Adv Healthc Mater*. 2023 Oct;12(26):e2300960. [doi: 10.1002/adhm.202300960](https://doi.org/10.1002/adhm.202300960) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37395729/)
+
+**Barcena AJR**, Perez JVD, Damasco JA, Bernardino MR, **San Valentin EMD**, Klusman C, Martin B, Cortes A, Canlas G, Del Mundo HC, Heralde FM, Avritscher R, Fowlkes N, Bouchard RR, Cheng J, Huang SY, Melancon MP. Gold Nanoparticles for Monitoring of Mesenchymal Stem Cell-Loaded Bioresorbable Polymeric Wraps for Arteriovenous Fistulas. *bioRxiv* [Preprint]. 2023 Feb 3:2023.02.01.526611. [doi: 10.1101/2023.02.01.526611](https://doi.org/10.1101/2023.02.01.526611) | *Updated in: Int J Mol Sci. 2023 Jul 21;24(14):11754*
+
+**Klusman C**, Martin B, Perez JVD, Barcena AJR, Bernardino MR, **San Valentin EMD**, Damasco JA, Mundo HCD, Court K, Godin B, Fowlkes N, Bouchard R, Cheng J, Huang SY, Melancon MP. Rosuvastatin-Eluting Gold Nanoparticle-Loaded Perivascular Implantable Wrap for Enhanced Arteriovenous Fistula Maturation in a Murine Model. *bioRxiv* [Preprint]. 2023 Feb 3:2023.02.02.526859. [doi: 10.1101/2023.02.02.526859](https://doi.org/10.1101/2023.02.02.526859)
+
+**San Valentin EMD**\*, Barcena AJR, Klusman C, Martin B, Melancon MP. Nano-embedded medical devices and delivery systems in interventional radiology. *Wiley Interdiscip Rev Nanomed Nanobiotechnol*. 2023 Jan;15(1):e1841. [doi: 10.1002/wnan.1841](https://doi.org/10.1002/wnan.1841) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/35946543/)
+
+---
+
+## Publication Summary
+
+**Research areas:** Microbiome science (9), Nanomedicine (12)
+
+**Citation Metrics:**
+- [Google Scholar](https://scholar.google.com/citations?user=zz38WBkAAAAJ&hl=en)
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=San+Valentin+E)
 
 
-<center><hr style="width:50%"></center>
-
-Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. *American Journal of Physics*, 33(5), 367. [[pdf](https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf)] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
-
-
-<!--Include social share buttons-->
-
-{{< include /files/includes/_socialshare.qmd >}}
+For questions about specific publications or collaboration inquiries, please [contact me](contact.qmd).

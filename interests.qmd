@@ -1,0 +1,61 @@
+---
+title: "Research Interests"
+description: ""
+---
+
+## Overview
+
+My research integrates my experience in both microbiosme science and nanomedicine to develop innovative approaches for human health. By combining expertise in nanoparticle engineering, microbial ecology, and computational methods, I aim to advance precision medicine and improve patient outcomes in clinical populations.
+
+---
+
+## 1. Nanotechnology-Enhanced Probiotic Delivery and Therapy
+
+Traditional probiotic delivery faces significant obstacles: degradation in the harsh gastric environment, poor colonization efficiency, and limited therapeutic reach to target sites. Conventional formulations often fail to deliver viable organisms at therapeutic doses where they're needed most.
+
+### Key Research Questions
+
+- **Protective encapsulation:** Can we engineer biocompatible nanoparticle coatings that shield probiotics from gastric acid while maintaining viability?
+- **Targeted delivery:** How can we leverage nanoparticle surface modifications to achieve site-specific probiotic colonization in the GI tract?
+- **Monitoring and tracking:** Can radiopaque nanoparticles enable real-time imaging of probiotic distribution and retention in vivo?
+- **Synergistic therapeutics:** Do nanoparticle-probiotic combinations enhance therapeutic efficacy compared to conventional delivery methods?
+
+---
+
+## 2. Reproductive Health: Vaginal and Uterine Microbiome Dynamics
+
+The vaginal and uterine microbiomes play critical but poorly understood roles in reproductive health, pregnancy outcomes, and gynecological diseases. Unlike gut microbiome research, reproductive tract microbiology remains understudied, with significant gaps in understanding composition, temporal dynamics, and host-microbe interactions across diverse populations.
+
+
+### Key Research Questions
+
+- **Baseline characterization:** What constitutes a "healthy" vaginal and uterine microbiome across different life stages, ethnicities, and geographic populations?
+- **Temporal dynamics:** How do microbial communities change throughout the menstrual cycle, pregnancy, and postpartum period?
+- **Disease associations:** Can we identify microbial signatures predictive of conditions such as preterm birth, recurrent pregnancy loss, endometriosis, or infertility?
+- **Mechanistic insights:** What host factors (immune, hormonal, genetic) drive microbial community structure and stability?
+- **Intervention strategies:** How do common clinical interventions (antibiotics, hormones, assisted reproductive technologies) impact reproductive microbiomes?
+
+---
+
+## 3. Artificial Intelligence in Microbiome Research
+
+### The Challenge
+
+Microbiome datasets are inherently complex—high-dimensional, compositional, temporally dynamic, expensive, and confounded by numerous host and environmental factors. Traditional approaches often fail to capture nonlinear relationships, multi-way interactions, and predictive patterns hidden within these rich datasets. With the rising of AI, we can leverage machine learning methods to extract meaningful insights from microbiome data and move beyond descriptive analyses toward predictive modeling and mechanistic understanding. This includes both supervised learning for outcome prediction and unsupervised methods for pattern discovery.
+
+### Key Research Questions
+
+- **Predictive modeling:** Can machine learning algorithms predict clinical outcomes (e.g., oral mucositis severity, treatment response) from baseline microbiome profiles?
+- **Pattern recognition:** What hidden microbial community structures emerge from unsupervised clustering and dimensionality reduction approaches?
+- **Feature selection:** Which microbial taxa, metabolic pathways, or community network properties are most informative for clinical prediction?
+- **Temporal modeling:** Can recurrent neural networks or time-series models capture dynamic microbiome trajectories and predict future states?
+- **Integration frameworks:** How can we integrate multi-omics data (microbiome + host genomics + metabolomics + clinical data) using AI to build comprehensive predictive models?
+- **Interpretability:** Can we develop explainable AI approaches that provide mechanistic insights, not just black-box predictions?
+
+
+## Collaborative Vision
+
+These research directions are inherently interdisciplinary and benefit from diverse expertise. Our lab is actively seeking collaborations with researchers and institutions working at these interfaces. If you're interested in discussing potential projects or partnerships, please [get in touch](contact.qmd).
+---
+
+*For my complete publication record, see my [publications page](publications.qmd). To learn more about my background and expertise, visit my [featured publications](featured-papers.qmd).*

@@ -1,0 +1,53 @@
+---
+title: "Featured Publications"
+description: ""
+---
+
+## Overview
+
+My research spans two complementary areas: understanding the oral and gut microbiome in cancer patients, and developing novel nanomaterial-embedded medical devices for interventional radiology. These featured publications represent key contributions in both domains.
+
+---
+
+## Paper 1: Understanding Oral Mucositis Through Omics Approaches
+
+### Why It Matters
+Oral mucositis significantly impacts patient quality of life and can lead to treatment interruptions, potentially compromising cancer outcomes. By understanding the molecular mechanisms through omics, we can move toward precision medicine approaches that identify at-risk patients and develop targeted interventions before severe symptoms develop.
+
+### Key Findings
+- **Multi-omics integration:** Combined analysis of genetic, microbial, and metabolic data provides the most comprehensive understanding of mucositis pathophysiology
+- **Predictive potential:** Several omics markers show promise for identifying patients at high risk for severe mucositis
+- **Research gaps:** Highlighted the need for longitudinal studies and standardized methodologies across omics platforms
+
+::: {.column-margin}
+![Oral mucositis is a heregeneous phenotype. An integrated omics approach to understand, prevent, and mitigate oral mucositis is necessary.](files/images/mucositis-review-framework.png)
+:::
+
+**Links to the paper:**
+- [Full Text (Open Access)](https://www.mdpi.com/1422-0067/24/23/16995)
+- [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10706892/)
+
+---
+
+## Paper 2: Novel Absorbable Inferior Vena Cava Filter (IVC) with Tungsten Nanoparticle Infusion
+
+### Why It Matters
+Traditional permanent IVC filters prevent life-threatening blood clots but carry long-term complications, while retrievable filters often cannot be removed. The absorbable filter made of polydioxanone with radiopaque tungsten nanoparticle infusion eliminates the need for a retrieval procedure while maintaining radiopacity for tracking throughout its lifecycle, potentially improving patient safety and reducing healthcare costs for the 200,000+ IVC filter procedures performed annually.
+
+### Key Findings
+- **Enhanced visibility:** Tungsten nanoparticle infusion provided superior radiopacity compared to standard polymer materials
+- **Safe absorption:** Complete biodegradation within expected timeframe with no adverse tissue reactions
+- **Clinical translation potential:** Image-guided deployment and monitoring demonstrated feasibility for clinical use
+
+![CT and fluoroscopy images showing IVC filter deployment, positioning, and monitoring over time in swine model](files/images/ivc-filter.png){fig-align="center" width="50%"}
+
+**Resources:**
+- [Full Text PDF](files/san-valentin-jvir-2024.pdf)
+- [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10872373/)
+
+---
+
+## Related Work
+
+For a complete list of my publications, see my [full publications page](publications.qmd) or my [Google Scholar profile](https://scholar.google.com/citations?user=zz38WBkAAAAJ&hl=en).
+

@@ -1,24 +1,54 @@
 ---
 title: "Contact"
-description-meta: "Reach out to me with questions and comments"
-title-block-banner: false
+description: ""
 ---
 
-<center>
+## Let's Connect!
 
-**Quarto Academic**
+I am always open to connecting about clinical research, microbiome science, sequencing workflows, and collaborative projects at the interface of translational and patient-focused work.
 
-School
+---
 
-College
+## Email
 
-University
+📧 [exs785@case.edu](mailto:exs785@case.edu)
 
-Address: 
+---
 
-Phone: 
+## Office Location
 
-E-mail: 
+**Biomedical Research Building 539**  
+2109 Adelbert Rd.  
+Cleveland, OH 44106
 
+---
 
-</center>
+## Curriculum Vitae
+
+For a detailed overview of my experience, skills, and ongoing projects, you can [download my CV](files/cv_20251002.pdf) (Updated: October 2025).
+
+---
+
+## Research Interests & Collaboration
+
+I enjoy interdisciplinary research environments, especially those focused on:
+
+- **Microbiome-based interventions** in cancer and clinical populations
+- **Clinical operations** and translational research coordination
+- **Molecular data interpretation** including sequencing and omics analysis
+- **Nanomedicine applications** in interventional radiology
+
+Whether you're interested in discussing research ideas, exploring collaboration opportunities, or have questions about my work, I'd love to hear from you.
+
+---
+
+## Professional Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=zz38WBkAAAAJ&hl=en)
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=San+Valentin+E)
+- [LinkedIn](https://linkedin.com/in/emdcsv ) 
+- [GitHub](https://github.com/erinmariedcsv)
+
+---
+
+*I typically respond to emails within 1-2 business days.*
