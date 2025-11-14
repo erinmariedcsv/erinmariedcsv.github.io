@@ -37,7 +37,7 @@ website:
   
   page-footer: 
     left: "Erin Marie San Valentin &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Built on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted from [Dr. Gang He](http://drganghe.github.io)"
+    center: "Built on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted from [Dr. Gang He](http://drganghe.github.io)"
     right:  
       - icon: github
         href: https://github.com/drganghe/quarto-academic-website-template
