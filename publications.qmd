@@ -40,7 +40,7 @@ title-block-banner: false
 
 ## 2023
 
-**San Valentin EMD**\*, Do KA, Yeung SJ, Reyes-Gibby CC. Attempts to Understand Oral Mucositis in Head and Neck Cancer Patients through Omics Studies: A Narrative Review. *Int J Mol Sci*. 2023 Nov 30;24(23):16995. [doi: 10.3390/ijms242316995](https://doi.org/10.3390/ijms242316995) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/38069314/) | [Full Text (Open Access)](https://www.mdpi.com/1422-0067/24/23/16995)
+**San Valentin EMD**, Do KA, Yeung SJ, Reyes-Gibby CC. Attempts to Understand Oral Mucositis in Head and Neck Cancer Patients through Omics Studies: A Narrative Review. *Int J Mol Sci*. 2023 Nov 30;24(23):16995. [doi: 10.3390/ijms242316995](https://doi.org/10.3390/ijms242316995) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/38069314/) | [Full Text (Open Access)](https://www.mdpi.com/1422-0067/24/23/16995)
 
 **Barcena AJR**, Perez JVD, Bernardino MR, Damasco JA, Cortes A, Del Mundo HC, **San Valentin EMD**, Klusman C, Canlas GM, Heralde FM 3rd, Avritscher R, Fowlkes N, Bouchard RR, Cheng J, Huang SY, Melancon MP. Bioresorbable Mesenchymal Stem Cell-Loaded Electrospun Polymeric Scaffold Inhibits Neointimal Hyperplasia Following Arteriovenous Fistula Formation in a Rat Model of Chronic Kidney Disease. *Adv Healthc Mater*. 2023 Oct;12(26):e2300960. [doi: 10.1002/adhm.202300960](https://doi.org/10.1002/adhm.202300960) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37395729/)
 
@@ -48,7 +48,7 @@ title-block-banner: false
 
 **Klusman C**, Martin B, Perez JVD, Barcena AJR, Bernardino MR, **San Valentin EMD**, Damasco JA, Mundo HCD, Court K, Godin B, Fowlkes N, Bouchard R, Cheng J, Huang SY, Melancon MP. Rosuvastatin-Eluting Gold Nanoparticle-Loaded Perivascular Implantable Wrap for Enhanced Arteriovenous Fistula Maturation in a Murine Model. *bioRxiv* [Preprint]. 2023 Feb 3:2023.02.02.526859. [doi: 10.1101/2023.02.02.526859](https://doi.org/10.1101/2023.02.02.526859)
 
-**San Valentin EMD**\*, Barcena AJR, Klusman C, Martin B, Melancon MP. Nano-embedded medical devices and delivery systems in interventional radiology. *Wiley Interdiscip Rev Nanomed Nanobiotechnol*. 2023 Jan;15(1):e1841. [doi: 10.1002/wnan.1841](https://doi.org/10.1002/wnan.1841) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/35946543/)
+**San Valentin EMD**, Barcena AJR, Klusman C, Martin B, Melancon MP. Nano-embedded medical devices and delivery systems in interventional radiology. *Wiley Interdiscip Rev Nanomed Nanobiotechnol*. 2023 Jan;15(1):e1841. [doi: 10.1002/wnan.1841](https://doi.org/10.1002/wnan.1841) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/35946543/)
 
 ---
 
