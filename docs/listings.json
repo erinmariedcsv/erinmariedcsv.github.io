@@ -2,5 +2,11 @@
   {
     "listing": "/projects.html",
     "items": []
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/2026-02-07/index.html"
+    ]
   }
 ]

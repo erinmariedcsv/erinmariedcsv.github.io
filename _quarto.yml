@@ -29,6 +29,8 @@ website:
             href: interests.qmd
           - text: Full Publication List
             href: publications.qmd
+      - text: Blog
+        href: blog.qmd
       - text: Beyond Research
         href: beyond.qmd
 
